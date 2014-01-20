@@ -1,0 +1,368 @@
+{
+	"blackCards":[
+		{
+			"text":"How did I lose my virginity?",
+			"cards":1
+		},
+		{
+			"text":"Why can't I sleep at night?",
+			"cards":1
+		},
+		{
+			"text":"What is that smell?",
+			"cards":1
+		},
+		{
+			"text":"I got 99 problems but ________ ain't one.",
+			"cards":1
+		},
+		{
+			"text":"Maybe she's born with it. Maybe it's _________.",
+			"cards":1
+		},
+		{
+			"text":"What's the next Happy Meal(R) toy?",
+			"cards":1
+		},
+		{
+			"text":"Here is the Church. Here is the steeple. Open the door and there is __________.",
+			"cards":1
+		},
+		{
+			"text":"It's a pity that kids these days are all getting involved with _______.",
+			"cards":1
+		},
+		{
+			"text":"During his childhood, Salvador Dali produced hundreds of paintings of __________.",
+			"cards":1
+		},
+		{
+			"text":"Alternative medicine is now embracing the curative powers of ___________.",
+			"cards":1
+		},
+		{
+			"text":"And the Academy Awards for __________ goes to _________. (pick 2)",
+			"cards":2
+		},
+		{
+			"text":"What's that sound?",
+			"cards":1
+		},
+		{
+			"text":"What ended my last relationship?",
+			"cards":1
+		},
+		{
+			"text":"Mtv's new reality show features eight washed-up celebrities living with __________.",
+			"cards":1
+		},
+		{
+			"text":"I drink to forget ________.",
+			"cards":1
+		},
+		{
+			"text":"I'm sorry, Professor, but I couldn't complete my homework because of __________.",
+			"cards":1
+		},
+		{
+			"text":"What is Batman's guilty pleasure?",
+			"cards":1
+		},
+		{
+			"text":"This is the way the world ends / This is the way the world ends / not with a bang but with __________.",
+			"cards":1
+		},
+		{
+			"text":"What's a girl's best friend?",
+			"cards":1
+		},
+		{
+			"text":"TSA guidelines now prohibit _________ on airplanes.",
+			"cards":1
+		},
+		{
+			"text":"____________. That's how I want to die.",
+			"cards":1
+		},
+		{
+			"text":"For my next trick, I will pull ________ out of __________. (pick 2)",
+			"cards":2
+		},
+		{
+			"text":"In the new Disney Channel Original Movie, Hannah Montana struggles with __________ for the first time.",
+			"cards":1
+		},
+		{
+			"text":"____________ is a slippery slope that leads to ___________. (pick 2)",
+			"cards":2
+		},
+		{
+			"text":"What does Dick Cheny prefer?",
+			"cards":1
+		},
+		{
+			"text":"Dear Abby,    I'm having some trouble with ________ and would like some advice",
+			"cards":1
+		},
+		{
+			"text":"Instead of coal, Santa now gives the bad children __________.",
+			"cards":1
+		},
+		{
+			"text":"What's the most emo?",
+			"cards":1
+		},
+		{
+			"text":"In 1,000 years when paper money is a distant memory, how will we pay for goods and services?",
+			"cards":1
+		},
+		{
+			"text":"What's the next superhero/sidekick duo? (pick 2)",
+			"cards":2
+		},
+		{
+			"text":"In M. Night Shyamalan's new movie, Bruce Willis discovers that ________ had really been _______ all along. (Pick 2)",
+			"cards":2
+		},
+		{
+			"text":"A romantic, candlelit dinner would be incomplete without ____________.",
+			"cards":1
+		},
+		{
+			"text":"____________. Betcha can't have just one!",
+			"cards":1
+		},
+		{
+			"text":"White people like ___________.",
+			"cards":1
+		},
+		{
+			"text":"___________. High five, bro.",
+			"cards":1
+		},
+		{
+			"text":"Next from J.K. Rowling: Harry Potter and the Chamber of __________.",
+			"cards":1
+		},
+		{
+			"text":"BILLY MAYS HERE FOR ____________!!.",
+			"cards":1
+		},
+		{
+			"text":"In a world ravage by ___________. Our only solace is__________. (Pick 2)",
+			"cards":2
+		},
+		{
+			"text":"War! What is it good for?",
+			"cards":1
+		},
+		{
+			"text":"During sex, I like to think about ___________.",
+			"cards":1
+		},
+		{
+			"text":"What are my parents hiding from me?",
+			"cards":1
+		},
+		{
+			"text":"What will always get you laid?",
+			"cards":1
+		},
+		{
+			"text":"In L.A. Country Jail, word is you can trade 200 cigarettes for __________.",
+			"cards":1
+		},
+		{
+			"text":"What did I bring back from Mexico?",
+			"cards":1
+		},
+		{
+			"text":"What don't you want to find in your Kung Pao Chicken?",
+			"cards":1
+		},
+		{
+			"text":"What will I bring back in time to convince people that I am a powerful wizard?",
+			"cards":1
+		},
+		{
+			"text":"How am I maintaining my relationship status?",
+			"cards":1
+		},
+		{
+			"text":"___________. It's a trap!",
+			"cards":1
+		},
+		{
+			"text":"Coming to Broadway this season, __________: The Musical",
+			"cards":1
+		},
+		{
+			"text":"While the United States raced the Soviet Union to the moon, the Mexican goverment funneled millions of pesos into research on __________.",
+			"cards":1
+		},
+		{
+			"text":"After the earthquake, Sean Penn brought ________ to the people of Haiti",
+			"cards":1
+		},
+		{
+			"text":"Next on ESPN2 the World Series of __________.",
+			"cards":1
+		},
+		{
+			"text":"Step 1: _________. Step 2: ______. Step3: Profit. (Pick 2)",
+			"cards":2
+		},
+		{
+			"text":"Rumor has it that Vladimir Putin's favorite delicacy is _________ stuffed with with ___________.",
+			"cards":2
+		},
+		{
+			"text":"But before I kill you, Mr. Bond, I must show you ________.",
+			"cards":1
+		},
+		{
+			"text":"What gives me uncontrollable gas?",
+			"cards":1
+		},
+		{
+			"text":"What do old people smell like?",
+			"cards":1
+		},
+		{
+			"text":"The class field trip was completely ruined by ________.",
+			"cards":1
+		},
+		{
+			"text":"When Pharaoh remaind unmoved moses called down a Pleage of ________.",
+			"cards":1
+		},
+		{
+			"text":"What is my Secret Power?",
+			"cards":1
+		},
+		{
+			"text":"What's there a ton of in heaven?",
+			"cards":1
+		},
+		{
+			"text":"What would grandma find disturbing, yet oddly charming?",
+			"cards":1
+		},
+		{
+			"text":"I never truly understood ______ until I encountered _________. (Pick 2)",
+			"cards":2
+		},
+		{
+			"text":"What did U.S. air drop to the children of Afghanistan?",
+			"cards":1
+		},
+		{
+			"text":"What helps Obama unwind?",
+			"cards":1
+		},
+		{
+			"text":"What did Vin Diesel eat for dinner?",
+			"cards":1
+		},
+		{
+			"text":"_________: good to the last drop.",
+			"cards":1
+		},
+		{
+			"text":"Why am I sticky?",
+			"cards":1
+		},
+		{
+			"text":"What gets better with age?",
+			"cards":1
+		},
+		{
+			"text":"__________: kid tested, mother-approved.",
+			"cards":1
+		},
+		{
+			"text":"Daddy, why is mommy crying?",
+			"cards":1
+		},
+		{
+			"text":"What's Teach for America using to inspire inner city students to succeed?",
+			"cards":1
+		},
+		{
+			"text":"Studies show that lab rats navigate mazes 50% faster after being exposed to ___________.",
+			"cards":1
+		},
+		{
+			"text":"Life for American Indians wer forever changed when White Man introduced them to _______.",
+			"cards":1
+		},
+		{
+			"text":"Make a haiku (draw 2, pick 3)",
+			"cards":3
+		},
+		{
+			"text":"I do not know with what weapons World War III will be fought, but World War IV will be fought with ________.",
+			"cards":1
+		},
+		{
+			"text":"Why do I hurt all over?",
+			"cards":1
+		},
+		{
+			"text":"What am I giving up for Lent?",
+			"cards":1
+		},
+		{
+			"text":"In Michael Jackson's final moments, he thought about ___________.",
+			"cards":1
+		},
+		{
+			"text":"The Smithsonian Museum of Natural History has Just opened an interactive exhibit on __________.",
+			"cards":1
+		},
+		{
+			"text":"When I am President of the United States, I will creat the Department of __________.",
+			"cards":1
+		},
+		{
+			"text":"Lifetime(R) presents ____________, the story of __________. (Pick 2)",
+			"cards":2
+		},
+		{
+			"text":"When I am a billionaire, I shall erect a 50-fot statue to commemorate __________.",
+			"cards":1
+		},
+		{
+			"text":"When I was tripping on acid, ____________ turn into _____________. (Pick 2)",
+			"cards":2
+		},
+		{
+			"text":"That's right, I killed ________. How you ask? _________. (Pick 2)",
+			"cards":2
+		},
+		{
+			"text":"What's my anti-drug?",
+			"cards":1
+		},
+		{
+			"text":"______ + ______ = _________ (draw 2, pick 3)",
+			"cards":3
+		},
+		{
+			"text":"What never fails to liven up the party?",
+			"cards":1
+		},
+		{
+			"text":"What's the new fad diet?",
+			"cards":1
+		},
+		{
+			"text":"Major League Baseball has banned _______ for giving the players an unfair advantage.",
+			"cards":1
+		}
+	],
+	"endcard":{
+			"text":"______ + ______ = _________ (draw 2, pick 3)",
+			"cards":3
+	}
+}
